@@ -1,9 +1,9 @@
 # rcg-localhost-api
-Snippet of rcg api, shows scalable design + use of mongoose schema.
+###Snippet of rcg api, shows scalable design + use of mongoose schema.
 
-Thanks for checking this out!
+####Thanks for checking this out!
 
-To set up:
+####Setup:
 ``` git clone ``` this repo
 
 then:
