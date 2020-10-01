@@ -25,4 +25,4 @@ I've included the phone, task, and user routes. I use Insomnia for testing but P
 
 I've created a demo Mongo Atlas db that is in the .env file. Normally would .gitignore, but, everything is contained in a demo.
 
-You can check out the schema to structure the calls, but I'll include some .json object comments in each route .js file.
+You can check out the schema to structure the calls, but I'll include some .json object comments in the phones route .js files. The others are pretty straightforward looking at the schema.
