@@ -8,3 +8,5 @@ module.exports = Router({mergeParams: true})
                 console.log('Phone entry deleted successfully'))
             .catch(error => res.status(400).json('Error: ' + error));
 })
+
+// DEL http://localhost:5000/api/v1/parts/phones/:id

@@ -13,6 +13,8 @@ module.exports = Router({mergeParams: true})
     };
 })
 
+// GET localhost:5000/api/v1/parts/phones
+
 // GET one phone by its ID
 .get('/v1/parts/phones/:id', async (req, res, next) => {
     try {
@@ -23,3 +25,5 @@ module.exports = Router({mergeParams: true})
         next(error)
     };
 })
+
+// GET localhost:5000/api/v1/parts/phones/:id
