@@ -4,17 +4,17 @@
 #### Thanks for checking this out!
 
 #### Setup:
-``` git clone ``` this repo
+``` git clone https://andrew-lyons/rcg-localhost-api```
 
-then:
+#### then:
 ```
 cd backend
 npm install
 ```
 
-if needed, npm audit fix, etc., but everything is looking up to date as of 9/30.
+*if needed, npm audit fix, etc., but everything is looking up to date as of 9/30.
 
-then, while in /backend:
+#### then, while in /backend:
 ```
 nodemon server.js
 ```
